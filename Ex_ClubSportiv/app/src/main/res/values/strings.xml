@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ex_ClubSportiv</string>
+    <string name="adauga_inregistrare">Adauga inregistrare</string>
+    <string name="vizualizeaza_inregistrarile">Vizualizeaza inregistrarile</string>
+    <string name="data_curenta">Data curenta:</string>
+    <string name="numele_sportivului">Numele sportivului</string>
+    <string name="mm_dd_yyyy">MM/dd/yyyy</string>
+    <string name="varsta">Varsta</string>
+    <string name="da">Da</string>
+    <string name="nu">Nu</string>
+    <string name="are_ochelari">Are ochelari?</string>
+    <string name="salveaza">Salveaza</string>
+</resources>

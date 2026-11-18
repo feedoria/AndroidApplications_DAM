@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex_Florarie</string>
+    <string name="are_felicitare">Are felicitare?</string>
+    <string name="adauga_comanda">Adauga comanda</string>
+    <string name="mm_dd_yyyy">MM/dd/yyyy</string>
+    <string name="numar_fire">Numar fire</string>
+    <string name="nume_client">Nume client</string>
+</resources>

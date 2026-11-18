@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex_Biblioteci</string>
+    <string name="data_si_ora_curenta">Data si ora curenta:</string>
+    <string name="titlu">Titlu</string>
+    <string name="autor">Autor</string>
+    <string name="mm_dd_yyyy">MM/dd/yyyy</string>
+    <string name="numar_pagini">Numar pagini</string>
+    <string name="adauga">Adauga</string>
+    <string name="vizualizeaza_carti">Vizualizeaza carti</string>
+</resources>

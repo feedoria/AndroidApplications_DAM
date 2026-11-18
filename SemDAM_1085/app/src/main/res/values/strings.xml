@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SemDAM_1085</string>
+    <string name="mesaj_de_test">Mesaj de test</string>
+    <string name="date">Date:</string>
+    <string name="eur">EUR:</string>
+    <string name="usd">USD:</string>
+    <string name="gbp">GBP:</string>
+    <string name="xau">XAU:</string>
+    <string name="afisare_curs_valutar">Afisare curs valutar</string>
+    <string name="introduceti_numele_studentului">Introduceti numele studentului!</string>
+    <string name="introduceti_data_nasterii">Introduceti data nasterii!</string>
+    <string name="alege_facultatea">Alege facultatea:</string>
+    <string name="are_bursa">Are bursa?</string>
+    <string name="adauga_student">Adauga student</string>
+    <string name="activitate_bnr">Activitate BNR</string>
+    <string name="extrage_date_din_xml">Extrage date din xml</string>
+    <string name="salvare_in_xml">Salvare in xml</string>
+</resources>

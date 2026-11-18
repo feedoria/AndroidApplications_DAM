@@ -1,0 +1,18 @@
+# Build si fisiere generate
+**/build/
+**/.gradle/
+**/.idea/
+**/.kotlin/
+**/.cxx/
+**/.externalNativeBuild/
+*.iml
+
+# Fisiere locale (cale SDK)
+**/local.properties
+
+# Arhive
+*.zip
+
+# Sistem
+.DS_Store
+Thumbs.db

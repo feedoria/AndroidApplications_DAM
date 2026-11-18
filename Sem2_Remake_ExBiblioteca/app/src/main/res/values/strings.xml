@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sem2_Remake_ExBiblioteca</string>
+    <string name="afisare_vreme">Afisare vreme</string>
+    <string name="iasi">Iasi</string>
+    <string name="cluj">Cluj</string>
+    <string name="bucuresti">Bucuresti</string>
+    <string name="data">Data</string>
+    <string name="adauga_carte">Adauga carte</string>
+    <string name="titlu">Titlu</string>
+    <string name="data_add_carte">Data:</string>
+    <string name="pret">Pret:</string>
+    <string name="alege_genul">Alege genul:</string>
+    <string name="da">Da</string>
+    <string name="nu">Nu</string>
+    <string name="este_disponibila">Este disponibila?</string>
+
+</resources>

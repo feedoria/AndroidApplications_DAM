@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex5_Zboruri</string>
+    <string name="destinatie">Destinatie</string>
+    <string name="data">Data</string>
+    <string name="pretul_zborului">Pretul zborului</string>
+    <string name="da">Da</string>
+    <string name="nu">Nu</string>
+    <string name="clasa">Clasa</string>
+    <string name="are_bagaj_de_cala">Are bagaj de cala?</string>
+    <string name="adauga">Adauga</string>
+</resources>

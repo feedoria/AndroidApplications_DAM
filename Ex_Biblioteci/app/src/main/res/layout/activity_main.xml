@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvDataCurenta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/data_si_ora_curenta" />
+
+    <EditText
+        android:id="@+id/etTitlu"
+        android:layout_width="match_parent"
+        android:layout_height="104dp"
+        android:ems="10"
+        android:hint="@string/titlu"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etAutor"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:ems="10"
+        android:hint="@string/autor"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etData"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:ems="10"
+        android:hint="@string/mm_dd_yyyy"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/etNrPagini"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:ems="10"
+        android:hint="@string/numar_pagini"
+        android:inputType="number" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="57dp" />
+
+    <Button
+        android:id="@+id/btnAdauga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/adauga" />
+
+    <Button
+        android:id="@+id/btnVizualizeaza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vizualizeaza_carti" />
+
+</LinearLayout>

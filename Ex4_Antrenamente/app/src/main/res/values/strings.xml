@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex4_Antrenamente</string>
+    <string name="numele_exercitiului">Numele exercitiului</string>
+    <string name="data">Data</string>
+    <string name="durata_exercitiului">Durata exercitiului</string>
+    <string name="alege_tipul_exercitiului">Alege tipul exercitiului</string>
+    <string name="ai_antrenor">Ai antrenor?</string>
+    <string name="da">Da</string>
+    <string name="nu">Nu</string>
+    <string name="adauga_antrenament">Adauga antrenament</string>
+</resources>

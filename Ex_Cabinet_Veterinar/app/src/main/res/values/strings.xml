@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex_Cabinet_Veterinar</string>
+    <string name="adauga_animal">Adauga animal</string>
+    <string name="vizualizeaza_lista">Vizualizeaza lista</string>
+</resources>

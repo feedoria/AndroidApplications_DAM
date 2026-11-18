@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex_CabinetStomatologic</string>
+    <string name="da">Da</string>
+    <string name="nu">Nu</string>
+    <string name="adauga">Adauga</string>
+    <string name="pret">Pret</string>
+    <string name="nume_pacient">Nume pacient</string>
+    <string name="mm_dd_yyyy">MM/dd/yyyy</string>
+</resources>

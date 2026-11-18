@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex2_Concerte</string>
+    <string name="soldout">SoldOut??</string>
+    <string name="adauga_concert">Adauga concert</string>
+</resources>

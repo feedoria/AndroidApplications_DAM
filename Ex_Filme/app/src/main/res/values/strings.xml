@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex_Filme</string>
+    <string name="adauga">Adauga</string>
+    <string name="mm_dd_yyyy">MM/dd/yyyy</string>
+    <string name="regizor">Regizor</string>
+    <string name="titlu">Titlu</string>
+    <string name="durata">Durata</string>
+    <string name="da">Da</string>
+    <string name="nu">Nu</string>
+</resources>
